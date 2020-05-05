@@ -1,2 +1,2 @@
 # stepikAutoTestsPythonCourse
-For homework
+For stepikAutoTests homework
